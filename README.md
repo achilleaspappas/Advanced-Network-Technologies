@@ -27,5 +27,5 @@ BGP with the use of network statement for advertising routes.
 ### 6. BGP with IGP
 BGP with the use of IGP for advertising routes.
 
-### 7. BGP with IGP
+### 7. BGP with AS-PATH
 BGP with the use of AS-PATH.
